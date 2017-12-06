@@ -1,0 +1,14 @@
+new term 1nd Feedback
+
+- Update term
+- Update question
+- Update courseDetail
+- Update CourseIncharge
+- Update CourseProgramDetails
+- Update semestercoursedetails
+- update semesterProgramdetails
+
+Within term 2nd Feedback
+
+- Add new term
+- Add question
